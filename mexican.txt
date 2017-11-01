@@ -1,0 +1,153 @@
+0	
+1647
+	/biz/guisados-los-angeles-3	Guisados
+1	
+966
+	/biz/chichen-itza-restaurant-los-angeles-3	Chichen Itza Restaurant
+2	
+264
+	/biz/el-zarape-los-angeles-2	El Zarape
+3	
+1120
+	/biz/guisados-dtla-los-angeles-2	Guisados DTLA
+4	
+270
+	/biz/el-cartel-los-angeles	El Cartel
+5	
+651
+	/biz/la-barca-restaurant-los-angeles	La Barca Restaurant
+6	
+441
+	/biz/casa-la-do%C3%B1a-los-angeles-2	Casa La Doa
+7	
+478
+	/biz/el-huarachito-los-angeles	El Huarachito
+8	
+565
+	/biz/el-nopal-mexican-restaurant-los-angeles-6	El Nopal Mexican Restaurant
+9	
+444
+	/biz/teres-mexican-grill-los-angeles	Teres Mexican Grill
+10	
+709
+	/biz/bs-taqueria-los-angeles-3	BS Taqueria
+11	
+267
+	/biz/la-noche-buena-restaurant-los-angeles	La Noche Buena Restaurant
+12	
+1025
+	/biz/carnitas-michoacan-los-angeles-2	Carnitas Michoacan
+13	
+576
+	/biz/mixto-comida-latina-los-angeles-2	Mixto Comida Latina
+14	
+763
+	/biz/cactus-taqueria-1-los-angeles-3	Cactus Taqueria #1
+15	
+642
+	/biz/pinches-tacos-los-angeles	Pinches Tacos
+16	
+563
+	/biz/el-cholo-los-angeles-2	El Cholo
+17	
+572
+	/biz/plancha-tacos-los-angeles-2	Plancha Tacos
+18	
+505
+	/biz/monte-alban-restaurant-los-angeles	Monte Alban Restaurant
+19	
+1068
+	/biz/don-antonios-los-angeles	Don Antonios
+20	
+403
+	/biz/tacomiendo-los-angeles	Tacomiendo
+21	
+748
+	/biz/tacos-tumbras-a-tomas-los-angeles	Tacos Tumbras a Tomas
+22	
+234
+	/biz/el-condor-los-angeles	El Condor
+23	
+822
+	/biz/la-casita-mexicana-bell	La Casita Mexicana
+24	
+479
+	/biz/tacos-delta-los-angeles	Tacos Delta
+25	
+249
+	/biz/dos-burritos-los-angeles-5	Dos Burritos
+26	
+212
+	/biz/tire-shop-taqueria-los-angeles	Tire Shop Taqueria
+27	
+214
+	/biz/rjm-mexican-grill-los-angeles	RJM Mexican Grill
+28	
+559
+	/biz/cielito-lindo-los-angeles	Cielito Lindo
+29	
+669
+	/biz/petty-cash-taqueria-los-angeles-2	Petty Cash Taqueria
+30	
+1900
+	/biz/best-fish-taco-in-ensenada-los-angeles	Best Fish Taco In Ensenada
+31	
+326
+	/biz/e-k-valley-restaurant-culver-city	E K Valley Restaurant
+32	
+225
+	/biz/franks-restaurant-los-angeles	Franks Restaurant
+33	
+865
+	/biz/king-taco-los-angeles-12	King Taco
+34	
+980
+	/biz/tacos-baja-los-angeles	Tacos Baja
+35	
+571
+	/biz/pacos-tacos-los-angeles-4	Pacos Tacos
+36	
+412
+	/biz/pepes-tacos-los-angeles	Pepes Tacos
+37	
+1827
+	/biz/el-taurino-los-angeles-2	El Taurino
+38	
+447
+	/biz/moles-la-tia-los-angeles	Moles La Tia
+39	
+1000
+	/biz/rosa-mexicano-los-angeles	Rosa Mexicano
+40	
+230
+	/biz/la-parrilla-los-angeles-5	La Parrilla
+41	
+226
+	/biz/antonios-restaurant-los-angeles	Antonios Restaurant
+42	
+320
+	/biz/tacos-por-favor-los-angeles-2	Tacos Por Favor
+43	
+648
+	/biz/don-cuco-mexican-restaurant-burbank	Don Cuco Mexican Restaurant
+44	
+249
+	/biz/villa-morelianas-los-angeles	Villa Morelianas
+45	
+279
+	/biz/rodeo-mexican-grill-los-angeles	Rodeo Mexican Grill
+46	
+241
+	/biz/el-rio-bravo-restaurant-culver-city	El Rio Bravo Restaurant
+47	
+449
+	/biz/taco-spot-los-angeles	Taco Spot
+48	
+405
+	/biz/el-tarasco-restaurant-manhattan-beach	El Tarasco Restaurant
+49	
+287
+	/biz/el-amigo-lawndale	El Amigo
+50	
+412
+	/biz/brick-and-flour-glendale-4	Brick & Flour
