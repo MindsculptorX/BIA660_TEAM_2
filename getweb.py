@@ -10,8 +10,11 @@ import re
 import time
 import requests
 
-def reviews(url,type):
-    for p in range(1,10):
+def reviews(url,type,name):
+    count=0;
+    restname=[]
+    fw=open(name,'w') # output file
+    for p in range(1,80):
         pageLink=url+'/search?find_loc=Los+Angeles,+CA&start='+str(p*10)+'&cflt=' +type# make the page url
         for i in range(5): # try 5 times
                     try:
@@ -32,27 +35,39 @@ def reviews(url,type):
         for div in divget:
             #print(review)
             #print(div)
-            restaurant=div.find('a', {'class':'biz-name js-analytics-click'}) # get all the review divs
-            kind=div.find('span',{'class':'category-str-list'})
-            #print(restaurant)
-           
-            if restaurant:
-                if 'ad_business_id' not in restaurant['href']:
-                    kind_s=kind.findAll('a')
-                    if len(kind_s)==1:
-                        
-                        reviewnum=div.find('span',{'class':'review-count rating-qualifier'})
-                        
-                        reviewnum=reviewnum.text.replace('reviews','')
-                        reviewnum=reviewnum.replace(' ','')
-                        if int(reviewnum)>200 :
-                        #print(kind)
-                            print(reviewnum)
-                            nextse=restaurant['href']
-                            print(nextse)
-                            sp=restaurant.find('span')
-                            print(sp.text)
-                            print('\n')
+            try:
+                restaurant=div.find('a', {'class':'biz-name js-analytics-click'}) # get all the review divs
+                kind=div.find('span',{'class':'category-str-list'})
+                #print(restaurant)
+               
+                if restaurant:
+                    if 'ad_business_id' not in restaurant['href']:
+                        kind_s=kind.findAll('a')
+                        if len(kind_s)==1:
+                            
+                            reviewnum=div.find('span',{'class':'review-count rating-qualifier'})
+                            
+                            reviewnum=reviewnum.text.replace('reviews','')
+                            reviewnum=reviewnum.replace(' ','')
+                           
+                            if float(reviewnum)>200 and count<=50:
+                                #print(kind)
+                                print(reviewnum)
+                                nextse=restaurant['href']
+                                print(nextse)
+                                sp=restaurant.find('span')
+                                print(sp.text)
+                                if sp.text not in restname:
+                                    fw.write(str(count)+'\t'+reviewnum+'\t'+nextse+'\t'+sp.text+'\n')
+                                    restname.append(sp.text)
+                                    count+=1
+                                print('\n')
+                                    
+                            elif count>50 :
+                                fw.close()
+                                return
+            except Exception as e:
+                continue
                     
                     
-reviews('https://www.yelp.com','chinese')
+reviews('https://www.yelp.com','chinese','chinese.txt')
