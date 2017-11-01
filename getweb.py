@@ -70,4 +70,16 @@ def reviews(url,type,name):
                 continue
                     
                     
+<<<<<<< Updated upstream
 reviews('https://www.yelp.com','chinese','chinese.txt')
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+reviews('https://www.yelp.com','chinese')
+=======
+reviews('https://www.yelp.com','chinese','chinese.txt')
+>>>>>>> origin/master
+=======
+reviews('https://www.yelp.com','chinese','chinese.txt')
+>>>>>>> origin/master
+>>>>>>> Stashed changes
