@@ -1,0 +1,153 @@
+0	
+341
+	/biz/eagle-rock-green-dragon-los-angeles	Eagle Rock Green Dragon
+1	
+218
+	/biz/the-new-moon-los-angeles	The New Moon
+2	
+880
+	/biz/won-kok-restaurant-los-angeles	Won Kok Restaurant
+3	
+334
+	/biz/plum-tree-inn-los-angeles	Plum Tree Inn
+4	
+328
+	/biz/hus-szechwan-restaurant-los-angeles	Hus Szechwan Restaurant
+5	
+234
+	/biz/northern-cafe-los-angeles	Northern Cafe
+6	
+233
+	/biz/chyn-king-los-angeles	Chyn King
+7	
+333
+	/biz/chinese-deli-t-and-d-north-hollywood-2	Chinese Deli T & D
+8	
+371
+	/biz/hop-li-seafood-restaurant-los-angeles-2	Hop Li Seafood Restaurant
+9	
+297
+	/biz/mandarin-kitchen-los-angeles	Mandarin Kitchen
+10	
+309
+	/biz/jin-jiang-restaurant-los-angeles	Jin Jiang Restaurant
+11	
+316
+	/biz/fus-palace-los-angeles	Fus Palace
+12	
+303
+	/biz/rice-wok-studio-city	Rice Wok
+13	
+246
+	/biz/cheng-du-restaurant-los-angeles	Cheng Du Restaurant
+14	
+243
+	/biz/little-palace-glendale	Little Palace
+15	
+203
+	/biz/hong-kong-kitchen-glendale	Hong Kong Kitchen
+16	
+395
+	/biz/hop-woo-bbq-and-seafood-restaurant-la-los-angeles	Hop Woo BBQ & Seafood Restaurant - LA
+17	
+221
+	/biz/green-tea-house-los-angeles	Green Tea House
+18	
+285
+	/biz/mandarin-wong-chinese-restaurant-newhall	Mandarin Wong Chinese Restaurant
+19	
+805
+	/biz/maos-kitchen-venice	Maos Kitchen
+20	
+254
+	/biz/abc-seafood-restaurant-los-angeles	ABC Seafood Restaurant
+21	
+214
+	/biz/china-wok-los-angeles-2	China Wok
+22	
+296
+	/biz/chinese-delight-north-hollywood	Chinese Delight
+23	
+281
+	/biz/dragon-street-chinese-north-hollywood-2	Dragon Street Chinese
+24	
+1643
+	/biz/mamas-lu-dumpling-house-monterey-park-4	Mamas Lu Dumpling House
+25	
+252
+	/biz/wacky-wok-los-angeles-2	Wacky Wok
+26	
+519
+	/biz/new-moon-montrose	New Moon
+27	
+410
+	/biz/ws-china-bistro-redondo-beach	Ws China Bistro
+28	
+297
+	/biz/foo-chow-restaurant-los-angeles	Foo Chow Restaurant
+29	
+481
+	/biz/seafood-port-chinese-restaurant-torrance	Seafood Port Chinese Restaurant
+30	
+251
+	/biz/regent-china-inn-los-angeles	Regent China Inn
+31	
+322
+	/biz/grandview-palace-pasadena	Grandview Palace
+32	
+690
+	/biz/mr-chow-beverly-hills	Mr Chow
+33	
+311
+	/biz/dumpling-house-gardena	Dumpling House
+34	
+365
+	/biz/golden-wall-la-mirada	Golden Wall
+35	
+254
+	/biz/the-great-wall-chinese-restaurant-reseda	The Great Wall Chinese Restaurant
+36	
+657
+	/biz/chens-chinese-restaurant-long-beach	Chens Chinese Restaurant
+37	
+272
+	/biz/jj-chinese-express-long-beach	JJ Chinese Express
+38	
+362
+	/biz/hui-tou-xiang-san-gabriel	Hui Tou Xiang
+39	
+230
+	/biz/golden-hunan-chinese-restaurant-northridge	Golden Hunan Chinese Restaurant
+40	
+258
+	/biz/hong-kong-express-westminster-3	Hong Kong Express
+41	
+289
+	/biz/silver-palace-chinese-restaurant-whittier-3	Silver Palace Chinese Restaurant
+42	
+648
+	/biz/chengdu-taste-alhambra	Chengdu Taste
+43	
+481
+	/biz/peking-restaurant-westminster	Peking Restaurant
+44	
+228
+	/biz/mandarin-island-mission-hills	Mandarin Island
+45	
+372
+	/biz/seafood-town-chinese-restaurant-torrance	Seafood Town Chinese Restaurant
+46	
+508
+	/biz/panda-inn-la-palma	Panda Inn
+47	
+763
+	/biz/tasty-garden-alhambra	Tasty Garden
+48	
+269
+	/biz/ji-rong-peking-duck-rosemead	Ji Rong Peking Duck
+49	
+240
+	/biz/yummy-garden-long-beach	Yummy Garden
+50	
+219
+	/biz/spicy-city-san-gabriel	Spicy City
