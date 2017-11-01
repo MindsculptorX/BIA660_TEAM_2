@@ -1,0 +1,153 @@
+0	
+1339
+	/biz/colori-kitchen-los-angeles	Colori Kitchen
+1	
+486
+	/biz/speranza-los-angeles	Speranza
+2	
+811
+	/biz/il-capriccio-on-vermont-los-angeles	Il Capriccio on Vermont
+3	
+704
+	/biz/pomodoro-trattoria-los-angeles-2	Pomodoro Trattoria
+4	
+534
+	/biz/farfalla-trattoria-los-angeles	Farfalla Trattoria
+5	
+625
+	/biz/madeo-restaurant-los-angeles-3	Madeo Restaurant
+6	
+975
+	/biz/the-factory-kitchen-los-angeles	The Factory Kitchen
+7	
+290
+	/biz/frankies-los-angeles-2	Frankies
+8	
+451
+	/biz/pizzicotto-los-angeles	Pizzicotto
+9	
+542
+	/biz/spumoni-restaurant-sherman-oaks	Spumoni Restaurant
+10	
+239
+	/biz/cafe-angelino-los-angeles	Cafe Angelino
+11	
+1371
+	/biz/drago-centro-los-angeles	DRAGO Centro
+12	
+203
+	/biz/spartina-los-angeles	Spartina
+13	
+837
+	/biz/jon-and-vinnys-los-angeles	Jon & Vinnys
+14	
+418
+	/biz/blairs-restaurant-los-angeles	Blairs Restaurant
+15	
+271
+	/biz/marino-restaurant-los-angeles	Marino Restaurant
+16	
+380
+	/biz/gusto-los-angeles	Gusto
+17	
+749
+	/biz/raffaello-ristorante-san-pedro	Raffaello Ristorante
+18	
+1175
+	/biz/mama-ds-manhattan-beach-2	Mama Ds
+19	
+418
+	/biz/locanda-veneta-los-angeles	Locanda Veneta
+20	
+931
+	/biz/trattoria-amici-glendale-2	Trattoria Amici
+21	
+337
+	/biz/italys-little-kitchen-los-angeles	Italys Little Kitchen
+22	
+557
+	/biz/centanni-trattoria-venice	Centanni Trattoria
+23	
+662
+	/biz/la-tavolata-artesia	La Tavolata
+24	
+1330
+	/biz/c-and-o-cucina-marina-del-rey	C & O Cucina
+25	
+333
+	/biz/alimento-los-angeles-2	Alimento
+26	
+204
+	/biz/palmeri-ristorante-los-angeles	Palmeri Ristorante
+27	
+240
+	/biz/north-italia-santa-monica-3	North Italia
+28	
+210
+	/biz/louises-trattoria-los-angeles-4	Louises Trattoria
+29	
+729
+	/biz/lomelis-italian-restaurant-gardena	Lomelis Italian Restaurant
+30	
+471
+	/biz/il-tramezzino-studio-city-studio-city	Il Tramezzino - Studio City
+31	
+299
+	/biz/divina-cucina-montrose	Divina Cucina
+32	
+260
+	/biz/adagio-ristorante-woodland-hills	Adagio Ristorante
+33	
+248
+	/biz/tra-di-noi-malibu	Tra di Noi
+34	
+430
+	/biz/vino-and-cucina-long-beach	Vino & Cucina
+35	
+369
+	/biz/via-veneto-santa-monica	Via Veneto
+36	
+299
+	/biz/house-of-meatballs-los-angeles	House of Meatballs
+37	
+273
+	/biz/novecento-pasta-and-grill-culver-city	Novecento Pasta & Grill
+38	
+867
+	/biz/gales-pasadena	Gales
+39	
+626
+	/biz/la-piazza-los-angeles	La Piazza
+40	
+455
+	/biz/il-tramezzino-beverly-hills-beverly-hills	Il Tramezzino - Beverly Hills
+41	
+329
+	/biz/brunos-santa-monica	Brunos
+42	
+519
+	/biz/ago-restaurant-west-hollywood	AGO Restaurant
+43	
+264
+	/biz/la-cava-san-fernando-valley	La Cava
+44	
+567
+	/biz/gaetanos-restaurant-torrance	Gaetanos Restaurant
+45	
+235
+	/biz/frankies-italian-kitchen-tarzana	Frankies Italian Kitchen
+46	
+230
+	/biz/buon-gusto-ristorante-mission-hills	Buon Gusto Ristorante
+47	
+230
+	/biz/betos-simi-valley	Betos
+48	
+382
+	/biz/via-alloro-beverly-hills-2	Via Alloro
+49	
+251
+	/biz/trastevere-hollywood-2	Trastevere
+50	
+416
+	/biz/la-scala-beverly-hills-2	La Scala
