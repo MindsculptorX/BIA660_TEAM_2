@@ -40,12 +40,19 @@ def reviews(url,type):
                 if 'ad_business_id' not in restaurant['href']:
                     kind_s=kind.findAll('a')
                     if len(kind_s)==1:
+                        
+                        reviewnum=div.find('span',{'class':'review-count rating-qualifier'})
+                        
+                        reviewnum=reviewnum.text.replace('reviews','')
+                        reviewnum=reviewnum.replace(' ','')
+                        if int(reviewnum)>200 :
                         #print(kind)
-                        nextse=restaurant['href']
-                        print(nextse)
-                        sp=restaurant.find('span')
-                        print(sp.text)
-                        print('\n')
+                            print(reviewnum)
+                            nextse=restaurant['href']
+                            print(nextse)
+                            sp=restaurant.find('span')
+                            print(sp.text)
+                            print('\n')
                     
                     
 reviews('https://www.yelp.com','chinese')
