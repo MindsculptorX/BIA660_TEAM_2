@@ -5,13 +5,12 @@ Created on Wed Nov  1 15:00:40 2017
 @author: Y. Zhao
 """
 
-from bs4 import BeautifulSoup
 import time
 import requests
-import os
+import os, shutil
 
 def getReviews(urlBase, url, filepath, maxReviews = 300):
-    for p in range(0, maxReviews / 20):
+    for p in range(0, int(maxReviews / 20)):
         pageLink=urlBase + url + '?start=' + str(p * 20) + '&sort_by=date_desc'# make the page url
         for i in range(5): # try 5 times
             try:
@@ -43,11 +42,15 @@ def getGene(name, maxReviews = 300):
             path = ls[i + 2].strip().split('\t')[0]
             print(id + " " + ls[i + 2].strip().split('\t')[1])
             if os.path.exists(os.path.join(os.getcwd(), name + "_" + id)) == False:
-                os.mkdir(os.path.join(os.getcwd(), 'temp'))
+                try:
+                    os.mkdir(os.path.join(os.getcwd(), 'temp'))
+                except FileExistsError as e:
+                    shutil.rmtree(os.path.join(os.getcwd(), 'temp/'))
+                    os.mkdir(os.path.join(os.getcwd(), 'temp'))
                 try:
                     getReviews('https://www.yelp.com', path, os.path.join(os.getcwd(), 'temp'), maxReviews = 300)
                     with open(os.path.join(os.getcwd(), 'temp') + '/metadata', 'w') as f:
-                        f.write(ls[i] + ls[i + 1] + ls[i + 2])
+                        f.write(ls[i] + ls[i + 1] + ls[i + 2] + str(int(maxReviews / 20)) + '\n')
                     os.rename(os.path.join(os.getcwd(), 'temp'), os.path.join(os.getcwd(), name + "_" + id))
                 except Exception as e:
                     print ('failed attempt', name + "_" + id)
