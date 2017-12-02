@@ -6,7 +6,6 @@ Created on Wed Nov  1 15:00:40 2017
 """
 
 from bs4 import BeautifulSoup
-import re
 import time
 import requests
 
@@ -68,18 +67,17 @@ def reviews(url,type,name):
                                 return
             except Exception as e:
                 continue
-                    
-                    
-<<<<<<< Updated upstream
-reviews('https://www.yelp.com','chinese','chinese.txt')
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-reviews('https://www.yelp.com','chinese')
-=======
-reviews('https://www.yelp.com','chinese','chinese.txt')
->>>>>>> origin/master
-=======
-reviews('https://www.yelp.com','chinese','chinese.txt')
->>>>>>> origin/master
->>>>>>> Stashed changes
+
+import os.path
+
+def run(outputfile, type=None, override=False):
+    if type == None:
+        parts = type.split('.')
+        type = parts[0]
+    if override == True or os.path.isfile(outputfile) == False:
+        reviews('https://www.yelp.com', type, outputfile)
+
+if __name__ == '__main__':
+    run('chinese')
+    run('italian')
+    run('mexican')

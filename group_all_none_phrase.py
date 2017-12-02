@@ -10,7 +10,7 @@ Created on Wed Nov  8 14:39:07 2017
 import pandas as pd
 import json
 
-csv_path = 'all_none_phrases_chinese.csv'
+csv_path = 'test.csv'
 data = pd.read_csv(csv_path)
 
 reduce1 = {}
@@ -43,7 +43,7 @@ for k, v in reduce2.items():
     reduce3[key].append({'phrase': parts[1], 'reviews': v})
         
 def sort_top_100(arr):
-    return sorted(arr, key = lambda k: len(k['reviews']), reverse=True)
+    return sorted(arr, key = lambda k: len(k['reviews']), reverse=True)[:100]
 
 print('finally')
 

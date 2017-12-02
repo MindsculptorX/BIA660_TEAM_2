@@ -56,4 +56,5 @@ def getGene(name, maxReviews = 300):
                     print ('failed attempt', name + "_" + id)
                     continue
             
-getGene('chinese', maxReviews = 300)
+if __name__ == '__main__':
+    getGene('chinese', maxReviews = 300)
