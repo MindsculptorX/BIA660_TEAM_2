@@ -1,0 +1,12 @@
+blvd
+los
+angeles
+night
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+
